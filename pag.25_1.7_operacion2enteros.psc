@@ -29,9 +29,9 @@ Algoritmo operacion2enteros
 	
 	// SECCION DE INTRODUCCION DE DATOS (DATOS DE ENTRADA)
 	
-	Escribir 'Proporciona el primer número entero: ';
+	Escribir 'Proporciona el primer numero entero: ';
 	Leer A;
-	Escribir 'Proporciona el segundo número entero: ';
+	Escribir 'Proporciona el segundo numero entero: ';
 	Leer B;
 	
 	// SECCION DE CALCULOS Y PROCESOS (PROCESO DE LOS DATOS)
@@ -40,5 +40,5 @@ Algoritmo operacion2enteros
 	
 	// SECCION DE REPORTES Y RESULTADOS (DATOS DE SALIDA)
 	
-	Escribir 'el resultado de la expreción algebraica ((A+b)^2)/3, es:',RES;
+	Escribir 'el resultado de la exprecion algebraica ((A+b)^2)/3, es:',RES;
 FinAlgoritmo
