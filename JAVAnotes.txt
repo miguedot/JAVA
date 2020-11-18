@@ -1,0 +1,23 @@
+// Editores que se utilizan en sistema Linux son: Vim, emacs.
+    en windows basta con usar un editor simple, como el block de notas.
+
+// Un programa JAVa se crea en un editor, un archivo con la extensión .java
+
+// El compilador crea los códigos de bytes, un archivo con la terminación .class
+
+// Para ejecutar el programa la JVM (maquina virtual) lee los có de bytes y los 
+    compila "justo a tiempo" (JIT - tambien conocido como compilador HotSpot de java); 
+    es decir los traduce en un lenguaje que la computadora puede entender.
+
+// El programa utiliza el comando javac (compilador de java) para compilar un 
+    pograma. ej: javac nombrArchivo.java
+
+
+// Entornos de desarrollo integrados (IDE's). Los IDE's proporcionan proporcionan
+    heramientas que dan soporte al proceso de desarrollo de software , incluyendo
+    editores para escribir y editar programas y depuradores para localizar errores
+    logicos.
+
+//  Lenguaje Unificado de Modelado (UML), es un lenguaje gráfico que permite a las
+    personas que diseñan sistemas de software utilizar una notación estandar en la
+    industria para presentarlos.
