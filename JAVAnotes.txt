@@ -1,3 +1,7 @@
+// Libro JAVA como programar 7ª edición
+    https://docs.google.com/file/d/0B15-TD-P2yXKYTZWMUhEN2w5Z1E/preview
+
+
 // Editores que se utilizan en sistema Linux son: Vim, emacs.
     en windows basta con usar un editor simple, como el block de notas.
 
@@ -5,11 +9,11 @@
 
 // El compilador crea los códigos de bytes, un archivo con la terminación .class
 
-// Para ejecutar el programa la JVM (maquina virtual) lee los có de bytes y los 
-    compila "justo a tiempo" (JIT - tambien conocido como compilador HotSpot de java); 
+// Para ejecutar el programa la JVM (maquina virtual) lee los có de bytes y los
+    compila "justo a tiempo" (JIT - tambien conocido como compilador HotSpot de java);
     es decir los traduce en un lenguaje que la computadora puede entender.
 
-// El programa utiliza el comando javac (compilador de java) para compilar un 
+// El programa utiliza el comando javac (compilador de java) para compilar un
     pograma. ej: javac nombrArchivo.java
 
 
